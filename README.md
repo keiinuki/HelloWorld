@@ -1,6 +1,6 @@
 # HelloWorld
 
-## HelloWorldComtrollerの作成
+## HelloWorldControllerの作成
 
 ## GreetingクラスとGreeteingControllerの作成
 
